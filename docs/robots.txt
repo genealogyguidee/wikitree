@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wikitree.readthedocs.io/en/latest/
